@@ -1,4 +1,4 @@
-## Redirecting the scene
+## EX-NO-7 Redirecting the scene
 
 ### Aim:
 To Redirecting the scene in the unity engine.
